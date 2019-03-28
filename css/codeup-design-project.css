@@ -10,13 +10,15 @@ h1 {
 h2 {
     text-align: center;
 }
+p {
+    font-family: 'Abel', sans-serif;
+}
 
 .design {
     background-color: #E6563B;
     border-radius: 50%;
     border: 15px solid white;
     width: 100%;
-    height: calc();
 }
 
 .develop {
@@ -47,36 +49,53 @@ h2 {
     /*position: relative;*/
     /*!*top: 50%;*!*/
     /*right: 50%;*/
-    align: middle;
+
     font-size: 15%;
     text-align: center;
     color: white;
+}
+#appleandipad{
+    border: 10px rgb(230,230,230) solid;
+    border-radius: 5px;
 }
 
 /*EXTRA SMALL SCREEN*/
 
 @media screen and (max-width:576px) {
+
+
     .design {
-        height: 9em;
-        width: 9em;
+        height:15em;
+        width:15em;
         border: 10px solid white;
+        margin-left: 2em;
     }
 
     .develop {
-        height:9em;
-        width: 9em;
+        height: 15em;
+        width:15em;
         border: 10px solid white;
+        margin-left: 1em;
+
     }
 
     .host {
-        height: 9em;
-        width: 9em;
+        height:15em;
+        width: 15em;
         border: 10px solid white;
+        margin-left: 1em;
+
     }
 
     .support {
-        height: 9em;
-        width: 9em;
+        height:15em;
+        width:15em;
         border: 10px solid white;
+        margin-left: 2em;
+    }
+    .selected-work{
+        text-align: center;
+        padding-top: 10em;
+        font-size: 2em;
     }
 }
