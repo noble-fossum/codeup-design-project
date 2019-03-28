@@ -4,14 +4,32 @@ body {
 }
 h1 {
     text-align: center;
-
+    font-size: 64px;
 }
 
 h2 {
     text-align: center;
+    font-size: 48px;
 }
+
+h3 {
+    font-size: 40px;
+}
+
+h4 {
+    font-size: 32px;
+}
+
+h5 {
+    font-size: 28px;
+}
+
 p {
     font-family: 'Abel', sans-serif;
+}
+
+div p {
+    font-size: 11.5px;
 }
 
 .design {
@@ -62,14 +80,15 @@ p {
 }
 .icon{
     position: relative;
-    top: 13%%;
+    top: 13%;
     font-size: 10px;
     text-align: center;
-
 }
-#red{
+
+#red {
     background-color: #E6563B;
 }
+
 #yellow{
     background-color: #EB9D3A;
 }
@@ -82,12 +101,74 @@ p {
 #appleandipad{
     border: 10px rgb(230,230,230) solid;
     border-radius: 5px;
+    max-width: 100%;
+    height: auto;
 }
+#macipad {
+    border: 10px rgb(230,230,230) solid;
+    border-radius: 5px;
+    max-width: 100%;
+    height: auto;
+}
+
+#binaryman {
+    border: 10px rgb(230,230,230) solid;
+    border-radius: 5px;
+    max-width: 100%;
+    height: auto;
+}
+
+#security {
+    border: 10px rgb(230,230,230) solid;
+    border-radius: 5px;
+    max-width: 100%;
+    height: auto;
+}
+
 
 /*EXTRA SMALL SCREEN*/
 
 @media screen and (max-width:576px) {
-
-
+    #macipad {
+    display: none;
+    }
+    #binaryman {
+        display: none;
+    }
+    #security {
+        display: none;
+    }
+    .selected-work {
+        text-align: center;
+        margin-top: 150px;
+    }
 
 }
+
+/*SMALL SCREEN*/
+
+@media screen and (max-width: 768px) and (min-width: 577px) {
+    .selected-work {
+        text-align: center;
+        border-top: solid 1px lightgray;
+        padding: 30px;
+        margin: 30px;
+    }
+
+    #headersmall {
+        margin: 0;
+        margin-left: 15%;
+        padding: 0;=
+        justify-content: center;
+        text-align: center;
+    }
+    h1 {
+        text-align: center;
+        margin: 0;
+        padding: 0;
+    }
+}
+
+/*MEDIUM SCREEN*/
+
+/*LARGE/EXTRA LARGE SCREEN*/
