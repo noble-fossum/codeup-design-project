@@ -125,6 +125,21 @@ div p {
     height: auto;
 }
 
+#mobile-phone {
+    height: 56px;
+    width: auto;
+}
+
+#head {
+    height: 56px;
+    width: auto;
+}
+
+#ipad {
+    height: 56px;
+    width: auto;
+}
+
 
 /*EXTRA SMALL SCREEN*/
 
@@ -145,6 +160,11 @@ div p {
     .hide{
         display: none;
     }
+
+    .sidebar {
+        display: none;
+    }
+
     div p{
         font-size: 15px;
     }
@@ -161,6 +181,10 @@ div p {
         margin: 30px;
     }
 
+    .sidebar {
+        display: none;
+    }
+
     #headersmall {
         margin: 0;
         margin-left: 15%;
@@ -175,8 +199,9 @@ div p {
     }
     div p {
         margin-left: -20%;
-
     }
+
+
 }
 
 /*MEDIUM SCREEN*/
@@ -196,3 +221,7 @@ div p {
 }
 
 /*LARGE/EXTRA LARGE SCREEN*/
+
+@media screen and (max-width: 1200px) and (min-width: 769px){
+
+}
