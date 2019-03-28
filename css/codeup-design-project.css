@@ -29,7 +29,7 @@ p {
 }
 
 div p {
-    font-size: 11.5px;
+    font-size: 11px;
 }
 
 .design {
@@ -142,6 +142,12 @@ div p {
         text-align: center;
         margin-top: 150px;
     }
+    .hide{
+        display: none;
+    }
+    div p{
+        font-size: 15px;
+    }
 
 }
 
@@ -167,8 +173,26 @@ div p {
         margin: 0;
         padding: 0;
     }
+    div p {
+        margin-left: -20%;
+
+    }
 }
 
 /*MEDIUM SCREEN*/
+
+@media screen and (max-width: 992px) and (min-width: 768px){
+    div p {
+        font-size: 8px;
+        margin-left: -20%;
+    }
+
+    .circle{
+        height: 18px;
+        width: 18px;
+        border-radius: 50%;
+        display: inline-block;
+    }
+}
 
 /*LARGE/EXTRA LARGE SCREEN*/
