@@ -98,17 +98,19 @@ ul{
 }
 
 
-#red {
+.red {
     background-color: #E6563B;
 }
 
-#yellow{
+.yellow {
     background-color: #EB9D3A;
 }
-#green{
+
+.green {
     background-color: #7CB06C;
 }
-#blue{
+
+.blue {
     background-color: #00ABA9;
 }
 #appleandipad{
@@ -217,9 +219,11 @@ ul{
     #macipad {
     display: none;
     }
+
     #binaryman {
         display: none;
     }
+
     #security {
         display: none;
     }
@@ -237,6 +241,7 @@ ul{
         text-align: center;
         margin-top: 150px;
     }
+
     .hide{
         display: none;
     }
@@ -256,18 +261,35 @@ ul{
         position: relative;
         right: -37px;
     }
-    .develop{
+    .develop {
         position: relative;
         right: 20px;
     }
-    .host{
+
+    .host {
         position: relative;
         right: 20px;
     }
-    #selectedandlast{
+
+    #selectedandlast {
         border-top: none;
     }
 
+    #services:hover {
+        color: #E6563B;
+    }
+
+    #work:hover {
+        color: #E6563B;
+    }
+
+    #blog:hover {
+        color: #E6563B;
+    }
+
+    #contact:hover {
+        color: #E6563B;
+    }
 }
 
 /*SMALL SCREEN*/
@@ -323,12 +345,21 @@ ul{
         margin-top: 40px;
     }
 
-    .links:hover {
+    #services:hover {
         color: #E6563B;
     }
 
+    #work:hover {
+        color: #E6563B;
+    }
 
+    #blog:hover {
+        color: #E6563B;
+    }
 
+    #contact:hover {
+        color: #E6563B;
+    }
 }
 
 /*MEDIUM SCREEN*/
@@ -345,14 +376,19 @@ ul{
         border-radius: 50%;
         display: inline-block;
     }
+
     .links {
         margin-top: 40px;
         margin-right: 2px;
         position: relative;
         top: 6px;
         right: 8px;
-
     }
+
+    .links:hover {
+        color: #E6563B;
+    }
+
     #codeupdesign{
         position: relative;
         top: -85px;
@@ -376,9 +412,21 @@ ul{
 
     }
 
+    #services:hover {
+        color: #E6563B;
+    }
 
+    #work:hover {
+        color: #E6563B;
+    }
 
+    #blog:hover {
+        color: #E6563B;
+    }
 
+    #contact:hover {
+        color: #E6563B;
+    }
 }
 
 /*LARGE/EXTRA LARGE SCREEN*/
@@ -391,14 +439,15 @@ ul{
         border-radius: 50%;
         display: inline-block;
     }
+
     .links {
         margin-top: 40px;
         margin-right: 2px;
         position: relative;
         top: 6px;
         right: 8px;
-
     }
+
     #codeupdesign{
         position: relative;
         top: -85px;
@@ -409,17 +458,36 @@ ul{
         top:0;
         right: 140px;
     }
-    #services{
+
+    #services {
         margin-right: -142px;
     }
-    #work{
+
+    #work {
         margin-right: -72px
     }
-    #blog{
+
+    #blog {
         margin-right: -66px
     }
-    #contact{
 
+    #contact {
+    }
+
+    #services:hover {
+        color: #E6563B;
+    }
+
+    #work:hover {
+        color: #E6563B;
+    }
+
+    #blog:hover {
+        color: #E6563B;
+    }
+
+    #contact:hover {
+        color: #E6563B;
     }
 
 }
