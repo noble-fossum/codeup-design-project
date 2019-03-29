@@ -47,7 +47,7 @@ ul{
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    border: 15px solid white;
+    border: 7px solid white;
 }
 
 .develop {
@@ -55,7 +55,7 @@ ul{
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    border: 15px solid white;
+    border: 7px solid white;
 }
 
 .host {
@@ -63,7 +63,7 @@ ul{
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    border: 15px solid white;
+    border: 7px solid white;
 }
 
 .support {
@@ -71,7 +71,7 @@ ul{
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    border: 15px solid white;
+    border: 7px solid white;
 }
 
 .text {
@@ -242,6 +242,7 @@ ul{
         font-size: 15px;
     }
 
+
 }
 
 /*SMALL SCREEN*/
@@ -318,12 +319,81 @@ ul{
         border-radius: 50%;
         display: inline-block;
     }
+    .links {
+        margin-top: 40px;
+        margin-right: 2px;
+        position: relative;
+        top: 6px;
+        right: 8px;
+
+    }
+    #codeupdesign{
+        position: relative;
+        top: -85px;
+        right: -66px;
+    }
+    #codeupdesignlogo{
+        position: relative;
+        top:0;
+        right: 96px;
+    }
+    #services{
+        margin-right: -142px;
+    }
+    #work{
+        margin-right: -72px
+    }
+    #blog{
+        margin-right: -66px
+    }
+    #contact{
+
+    }
+
+
 
 
 }
 
 /*LARGE/EXTRA LARGE SCREEN*/
 
-@media screen and (max-width: 1200px) and (min-width: 769px){
+@media screen and (max-width: 1600px) and (min-width: 992px){
+
+    .circle{
+        height: 18px;
+        width: 18px;
+        border-radius: 50%;
+        display: inline-block;
+    }
+    .links {
+        margin-top: 40px;
+        margin-right: 2px;
+        position: relative;
+        top: 6px;
+        right: 8px;
+
+    }
+    #codeupdesign{
+        position: relative;
+        top: -85px;
+        right: 28px;
+    }
+    #codeupdesignlogo{
+        position: relative;
+        top:0;
+        right: 140px;
+    }
+    #services{
+        margin-right: -142px;
+    }
+    #work{
+        margin-right: -72px
+    }
+    #blog{
+        margin-right: -66px
+    }
+    #contact{
+
+    }
 
 }
