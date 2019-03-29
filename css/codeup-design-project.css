@@ -88,6 +88,7 @@ div p {
     text-align: center;
 }
 
+
 #red {
     background-color: #E6563B;
 }
@@ -108,21 +109,21 @@ div p {
     height: auto;
 }
 #macipad {
-    border: 10px rgb(230,230,230) solid;
+    border: 10px #E6E6E6 solid;
     border-radius: 5px;
     max-width: 100%;
     height: auto;
 }
 
 #binaryman {
-    border: 10px rgb(230,230,230) solid;
+    border: 10px #E6E6E6 solid;
     border-radius: 5px;
     max-width: 100%;
     height: auto;
 }
 
 #security {
-    border: 10px rgb(230,230,230) solid;
+    border: 10px #E6E6E6 solid;
     border-radius: 5px;
     max-width: 100%;
     height: auto;
@@ -130,18 +131,51 @@ div p {
 
 #mobile-phone {
     height: 56px;
-    width: auto;
+    width: 54px;
+    border-sizing: border-box;
+    border: 4px solid #E6E6E6;
+    border-radius: 5px;
+    overflow: hidden;
 }
 
 #head {
     height: 56px;
-    width: auto;
+    width: 54px;
+    border-sizing: border-box;
+    border: 4px solid #E6E6E6;
+    border-radius: 5px;
+    overflow: hidden;
 }
 
 #ipad {
     height: 56px;
-    width: auto;
+    width: 54px;
+    border-sizing: border-box;
+    border: 4px solid #E6E6E6;
+    border-radius: 5px;
+    overflow: hidden;
 }
+
+#last {
+    font-size: 12px;
+    /*margin: 0px 0px 10px 0px;*/
+}
+
+#selected {
+    font-size: 12px;
+    margin: 0;
+}
+
+#twitterlogo {
+    height: 35px;
+}
+
+#tweet {
+    margin-top: 9px;
+    margin-left: -13px;
+    font-weight: bold;
+}
+
 
 
 /*EXTRA SMALL SCREEN*/
@@ -156,6 +190,16 @@ div p {
     #security {
         display: none;
     }
+
+    #selected {
+        text-align: center;
+        margin: 0;
+    }
+
+    #last {
+        display: none;
+    }
+
     .selected-work {
         text-align: center;
         margin-top: 150px;
@@ -195,6 +239,15 @@ div p {
         justify-content: center;
         text-align: center;
     }
+
+    #selected {
+        text-align: center;
+        margin: 0;
+    }
+    #last {
+        display: none;
+    }
+
     h1 {
         text-align: center;
         margin: 0;
@@ -221,6 +274,7 @@ div p {
         border-radius: 50%;
         display: inline-block;
     }
+
 
 }
 
