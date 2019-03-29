@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80734055-6298-4ee2-b37f-718816460941" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeup-design-project.html" beforeDir="false" afterPath="$PROJECT_DIR$/codeup-design-project.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/codeup-design-project.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/codeup-design-project.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/codeup-design-project.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="445" lean-forward="true" selection-start-line="445" selection-end-line="445" />
+            <state relative-caret-position="91">
+              <caret line="280" lean-forward="true" selection-start-line="280" selection-end-line="280" />
             </state>
           </provider>
         </entry>
@@ -140,7 +138,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29928000" />
+    <option name="totallyTimeSpent" value="30217000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="300" y="40" width="807" height="797" extended-state="0" />
@@ -163,7 +161,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.1716312" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.1716312" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -196,8 +194,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/codeup-design-project.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="445" lean-forward="true" selection-start-line="445" selection-end-line="445" />
+        <state relative-caret-position="91">
+          <caret line="280" lean-forward="true" selection-start-line="280" selection-end-line="280" />
         </state>
       </provider>
     </entry>

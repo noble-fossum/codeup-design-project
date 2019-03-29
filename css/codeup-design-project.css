@@ -294,8 +294,8 @@ ul{
     #headersmall {
         margin: 0;
         margin-left: 15%;
-        padding: 0;=
-        justify-content: center;
+        padding: 0;
+    = justify-content: center;
         text-align: center;
     }
 
@@ -303,6 +303,7 @@ ul{
         text-align: center;
         margin: 0;
     }
+
     #last {
         display: none;
     }
@@ -322,28 +323,13 @@ ul{
         margin: 0;
         padding: 0;
     }
+
     div p {
         margin-left: -20%;
     }
 
     .links {
         margin-top: 40px;
-    }
-
-    #services:hover {
-        color: #E6563B;
-    }
-
-    #work:hover {
-        color: #E6563B;
-    }
-
-    #blog:hover {
-        color: #E6563B;
-    }
-
-    #contact:hover {
-        color: #E6563B;
     }
 }
 
