@@ -17,8 +17,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/codeup-design-project.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9">
-              <caret line="218" column="29" selection-start-line="218" selection-start-column="29" selection-end-line="218" selection-end-column="29" />
+            <state relative-caret-position="-2">
+              <caret line="73" column="29" lean-forward="true" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -26,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/codeup-design-project.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="243" column="4" selection-start-line="243" selection-start-column="4" selection-end-line="243" selection-end-column="4" />
+            <state relative-caret-position="339">
+              <caret line="295" column="27" lean-forward="true" selection-start-line="295" selection-start-column="27" selection-end-line="295" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -135,7 +135,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24287000" />
+    <option name="totallyTimeSpent" value="27685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="639" y="29" width="1247" height="797" extended-state="0" />
@@ -184,15 +184,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/codeup-design-project.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="218" column="29" selection-start-line="218" selection-start-column="29" selection-end-line="218" selection-end-column="29" />
+        <state relative-caret-position="-2">
+          <caret line="73" column="29" lean-forward="true" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/codeup-design-project.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="243" column="4" selection-start-line="243" selection-start-column="4" selection-end-line="243" selection-end-column="4" />
+        <state relative-caret-position="339">
+          <caret line="295" column="27" lean-forward="true" selection-start-line="295" selection-start-column="27" selection-end-line="295" selection-end-column="27" />
         </state>
       </provider>
     </entry>

@@ -87,6 +87,7 @@ ul{
     width: 18px;
     border-radius: 50%;
     display: inline-block;
+
 }
 
 .icon{
@@ -165,12 +166,13 @@ ul{
 }
 
 #last {
-    font-size: 12px;
+    font-size: 14px;
+    margin-left: 5px;
     /*margin: 0px 0px 10px 0px;*/
 }
 
 #selected {
-    font-size: 12px;
+    font-size: 14px;
     margin: 0;
 }
 
@@ -180,7 +182,7 @@ ul{
 
 #tweet {
     margin-top: 9px;
-    margin-left: -13px;
+    margin-left: -10px;
     font-weight: bold;
 }
 #codeupdesignlogo{
@@ -200,8 +202,13 @@ ul{
     position: relative;
     top: 75px;
 }
-
-
+#twitterpara{
+    margin-left: 0;
+}
+#selectedandlast{
+    border-top: rgb(204,204,204) solid 1px;
+    padding-top: 40px;
+}
 
 
 /*EXTRA SMALL SCREEN*/
@@ -241,13 +248,31 @@ ul{
     div p{
         font-size: 15px;
     }
-
+    .design{
+        position: relative;
+        right: -37px;
+    }
+    .support{
+        position: relative;
+        right: -37px;
+    }
+    .develop{
+        position: relative;
+        right: 20px;
+    }
+    .host{
+        position: relative;
+        right: 20px;
+    }
+    #selectedandlast{
+        border-top: none;
+    }
 
 }
 
 /*SMALL SCREEN*/
 
-@media screen and (max-width: 768px) and (min-width: 577px) {
+@media screen and (max-width: 767px) and (min-width: 577px) {
     .selected-work {
         text-align: center;
         border-top: solid 1px lightgray;
@@ -301,6 +326,7 @@ ul{
     .links:hover {
         color: #E6563B;
     }
+
 
 
 }
