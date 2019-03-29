@@ -34,7 +34,14 @@ p {
 div p {
     font-size: 11px;
 }
-
+li{
+    list-style: none;
+}
+ul{
+    position: relative;
+    top: 0%;
+    right: -25%;
+}
 .design {
     background-color: #E6563B;
     width: 120px;
@@ -175,6 +182,22 @@ div p {
     margin-left: -13px;
     font-weight: bold;
 }
+#codeupdesignlogo{
+    height: 105px;
+    width: 105px;
+}
+#codeupdesign{
+    font-size: 40px;
+    position: relative;
+    right: 18%;
+
+}
+#whitebar{
+    background-color: white;
+    width: 100%;
+    height: 50px;
+}
+
 
 
 
