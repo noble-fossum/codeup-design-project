@@ -275,21 +275,6 @@ ul{
         border-top: none;
     }
 
-    #services:hover {
-        color: #E6563B;
-    }
-
-    #work:hover {
-        color: #E6563B;
-    }
-
-    #blog:hover {
-        color: #E6563B;
-    }
-
-    #contact:hover {
-        color: #E6563B;
-    }
 }
 
 /*SMALL SCREEN*/
@@ -412,21 +397,6 @@ ul{
 
     }
 
-    #services:hover {
-        color: #E6563B;
-    }
-
-    #work:hover {
-        color: #E6563B;
-    }
-
-    #blog:hover {
-        color: #E6563B;
-    }
-
-    #contact:hover {
-        color: #E6563B;
-    }
 }
 
 /*LARGE/EXTRA LARGE SCREEN*/
@@ -474,20 +444,9 @@ ul{
     #contact {
     }
 
-    #services:hover {
-        color: #E6563B;
-    }
-
-    #work:hover {
-        color: #E6563B;
-    }
-
-    #blog:hover {
-        color: #E6563B;
-    }
-
-    #contact:hover {
-        color: #E6563B;
+    #mover{
+        position: relative;
+        right: -48px;
     }
 
 }
