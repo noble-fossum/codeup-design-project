@@ -211,6 +211,34 @@ ul{
     border-top: rgb(204,204,204) solid 1px;
     padding-top: 40px;
 }
+#services a{
+    text-decoration: none;
+    color: black;
+}
+#work a{
+    text-decoration: none;
+    color: black;
+}
+#blog a{
+    text-decoration: none;
+    color: black;
+}
+#contact a{
+    text-decoration: none;
+    color: black;
+}
+#work a:hover{
+    color: red;
+}
+#blog a:hover{
+    color: red;
+}
+#contact a:hover{
+    color: red;
+}
+#services a:hover{
+    color: red;
+}
 
 
 /*EXTRA SMALL SCREEN*/
@@ -369,13 +397,19 @@ ul{
         right: 96px;
     }
     #services{
-        margin-right: -142px;
+        position: relative;
+        right: -142px;
+        z-index: 100;
     }
     #work{
-        margin-right: -72px
+        position: relative;
+        right: -89px;
+        z-index: 90;
     }
     #blog{
-        margin-right: -66px
+        position: relative;
+        right: -45px;
+        z-index: 80;
     }
     #contact{
 
@@ -414,15 +448,21 @@ ul{
     }
 
     #services {
-        margin-right: -142px;
+        position: relative;
+        right: -142px;
+        z-index: 100;
     }
 
     #work {
-        margin-right: -72px
+        position: relative;
+        right: -89px;
+        z-index: 90;
     }
 
     #blog {
-        margin-right: -66px
+        position: relative;
+        right: -45px;
+        z-index: 80;
     }
 
     #contact {

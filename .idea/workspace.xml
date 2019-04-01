@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80734055-6298-4ee2-b37f-718816460941" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/codeup-design-project.html" beforeDir="false" afterPath="$PROJECT_DIR$/codeup-design-project.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/codeup-design-project.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/codeup-design-project.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,12 +13,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/codeup-design-project.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="252" column="104" selection-start-line="252" selection-start-column="104" selection-end-line="252" selection-end-column="104" />
+            <state relative-caret-position="324">
+              <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/codeup-design-project.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="235" column="8" selection-start-line="235" selection-start-column="8" selection-end-line="235" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -44,16 +55,16 @@
       <list>
         <option value="$PROJECT_DIR$/codeup-design-project.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/css/codeup-design-project.css" />
         <option value="$PROJECT_DIR$/codeup-design-project.html" />
+        <option value="$PROJECT_DIR$/css/codeup-design-project.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="542" />
+    <option name="x" value="764" />
     <option name="y" value="23" />
-    <option name="width" value="738" />
-    <option name="height" value="777" />
+    <option name="width" value="807" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -115,15 +126,15 @@
       <workItem from="1553785009284" duration="296000" />
       <workItem from="1553786174597" duration="139000" />
       <workItem from="1553786731527" duration="275000" />
-      <workItem from="1554127291734" duration="1053000" />
+      <workItem from="1554127291734" duration="4596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33622000" />
+    <option name="totallyTimeSpent" value="36673000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="542" y="23" width="738" height="777" extended-state="0" />
+    <frame x="764" y="69" width="807" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.36748633" />
@@ -143,8 +154,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.17080292" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4993464" visible="true" weight="0.1716312" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="11" sideWeight="0.5006536" side_tool="true" visible="true" weight="0.1716312" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -167,17 +178,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/codeup-design-project.css">
+    <entry file="file://$PROJECT_DIR$/codeup-design-project.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="345" column="21" lean-forward="true" selection-start-line="345" selection-start-column="21" selection-end-line="345" selection-end-column="21" />
+        <state relative-caret-position="324">
+          <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codeup-design-project.html">
+    <entry file="file://$PROJECT_DIR$/css/codeup-design-project.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="252" column="104" selection-start-line="252" selection-start-column="104" selection-end-line="252" selection-end-column="104" />
+        <state relative-caret-position="391">
+          <caret line="235" column="8" selection-start-line="235" selection-start-column="8" selection-end-line="235" selection-end-column="8" />
         </state>
       </provider>
     </entry>
