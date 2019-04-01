@@ -326,6 +326,7 @@ ul{
 
     div p {
         margin-left: -20%;
+        font-size: 14px;
     }
 
     .links {
@@ -356,9 +357,6 @@ ul{
         right: 8px;
     }
 
-    .links:hover {
-        color: #E6563B;
-    }
 
     #codeupdesign{
         position: relative;
